@@ -6,7 +6,7 @@ Customer retention is one of the primary KPI for financial industries with a sub
 Customer churn here is the percentage of customers that stopped using the banking product or service during a certain time frame. One of the ways to calculate a churn rate is to divide the number of customers lost during a given time interval by the number of active customers at the beginning of the period.
 
 ## How the ANN model was built and  used 
-The primary objective of the customer churn  model is to create a classfier model that shows which client is likely to leave the bank or not. Particularl;y is important because the bank can esssentially target appropriate rentention strategies towards these clients. In this simple ANN model we used the rectifier and sigmoid activation function along with binary cross enthropy loss function
+The primary objective of the customer churn  model is to create a classfier model that shows which client is likely to leave the bank or not. Particularly is important because the bank can essentially target appropriate rentention strategies towards these clients. In this simple ANN model we used the rectifier and sigmoid activation function along with binary cross enthropy loss function
 
 ## DataSet
 1. RowNumber: A numeric value associated with each row in the dataset
@@ -22,4 +22,4 @@ The primary objective of the customer churn  model is to create a classfier mode
 11. HasCrCard: Has a credit card with the bank 0 - No , 1- Yes
 12. isActiveMember: Is the accounts assocviated with customer dormant ir active 0 - Dormant, 1 - Active 
 13. EstimatedSalary: Annual Estimated Income of the Customer 
-14. Exited: Did the customer leve the bank or not 1 - Exited, 0- Did not Exit
+14. Exited: Did the customer leave the bank or not 1 - Exited, 0- Did not Exit
