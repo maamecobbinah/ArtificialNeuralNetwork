@@ -1,12 +1,12 @@
 # Customer Churn Model Using Artificial Neural Network
-This a simple implementation using Artificial Neural Network too identify which customers in a bank are morely likely to leave the bank or not.
+This is a simple implementation using Artificial Neural Network to identify which customers in a bank are morely likely to leave the bank or not.
 
 ## Introduction
-Customer retention is one of the primary KPI for companies with a subscription-based business model. Competition is tough particularly in the Retail Financial Market where customers are free to choose from plenty of providers. One bad experience and customer may just move to the competitor resulting in customer churn.
-Customer churn is the percentage of customers that stopped using your company’s product or service during a certain time frame. One of the ways to calculate a churn rate is to divide the number of customers lost during a given time interval by the number of active customers at the beginning of the period.
+Customer retention is one of the primary KPI for financial industries with a subscription-based business model. Competition is tough particularly in the Retail Financial Market where customers are free to choose from plenty of providers. One bad experience and customer may just move to the competitor resulting in customer churn.
+Customer churn is the percentage of customers that stopped using the company’s product or service during a certain time frame. One of the ways to calculate a churn rate is to divide the number of customers lost during a given time interval by the number of active customers at the beginning of the period.
 
 ## How the ANN model was built and  used 
-The primary objective of the customer churn predictive model is to retain customers at the highest risk of churn. In this simple ANN model we used the rectifier and sigmoid activation function along with binary cross enthropy loss function
+The primary objective of the customer churn predictive model is to creative a predictive models that shows which leaves the bank. In this simple ANN model we used the rectifier and sigmoid activation function along with binary cross enthropy loss function
 
 ## DataSet
 1. RowNumber: A numeric value associated with each row in the dataset
