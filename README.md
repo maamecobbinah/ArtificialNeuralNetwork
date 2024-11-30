@@ -1,3 +1,6 @@
+# Business Probelm 
+Destuche Bank is looking to understand its customers better by identifying which customers is more likely to stay or leve
+
 # Customer Churn Model Using Artificial Neural Network
 This is a simple implementation using Artificial Neural Network to identify which customers in a bank are morely likely to leave the bank or not.
 
