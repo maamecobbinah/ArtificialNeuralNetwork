@@ -1,15 +1,15 @@
 # Business Probelm 
-Destuche Bank is looking to understand its customers better by identifying which customers is more likely to stay or leve
+Destuche Bank is looking to understand its customers better by identifying which customers is more likely to stay or leave. It has provided a robust datset that contains each customer , their current balance, credit scores and financial products they own with the bank and some demopgraphic identifies such age, sex and geographical area
 
-# Customer Churn Model Using Artificial Neural Network
-This is a simple implementation using Artificial Neural Network to identify which customers in a bank are morely likely to leave the bank or not.
+# Project Objective
+The objective of this project is to create a machine learning model that can accurately predict customer churn and provide insights into the characteristics of customers who are likely to leave the bank. 
+The model will help the bank to target its at-risk customers and offer them personalized incentives or solutions to retain them. 
+In our case we utilised a simple ANN model with some parameter tuning techniques to train and overall be able to classifier the customers into binary  True or False for churn customer.
 
 ## Introduction
 Customer retention is one of the primary KPI for financial industries with a subscription-based business model. Competition is tough particularly in the Retail Financial Market where customers are free to choose from plenty of providers. One bad experience and customer may just move to the competitor resulting in customer churn.
 Customer churn here is the percentage of customers that stopped using the banking product or service during a certain time frame. One of the ways to calculate a churn rate is to divide the number of customers lost during a given time interval by the number of active customers at the beginning of the period.
 
-## How the ANN model was built and  used 
-The primary objective of the customer churn  model is to create a classfier model that shows which client is likely to leave the bank or not. Particularly is important because the bank can essentially target appropriate rentention strategies towards these clients. In this simple ANN model we used the rectifier and sigmoid activation function along with binary cross enthropy loss function
 
 ## DataSet
 1. RowNumber: A numeric value associated with each row in the dataset
