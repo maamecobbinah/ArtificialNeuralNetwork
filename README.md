@@ -1,10 +1,8 @@
 # Business Probelm 
-Destuche Bank is looking to understand its customers better by identifying which customers is more likely to stay or leave. It has provided a robust datset that contains each customer , their current balance, credit scores and financial products they own with the bank and some demopgraphic identifies such age, sex and geographical area
+Destuche Bank is looking to understand its customers better by identifying which customers are more likely to stay or leave. It has provided a robust dataset that contains information about each customer, including their current balance, credit scores, the financial products they own with the bank, and some demographic details such as age, sex, and geographical area.
 
 # Project Objective
-The objective of this project is to create a machine learning model that can accurately predict customer churn and provide insights into the characteristics of customers who are likely to leave the bank. 
-The model will help the bank to target its at-risk customers and offer them personalized incentives or solutions to retain them. 
-In our case we utilised a simple ANN model with some parameter tuning techniques to train and overall be able to classifier the customers into binary  True or False for churn customer.
+The objective of this project is to create a machine learning model that can accurately predict customer churn and provide insights into the characteristics of customers who are likely to leave the bank. The model will help the bank target its at-risk customers and offer them personalized incentives or solutions to retain them. In our case, we utilized a simple ANN model with some parameter tuning techniques to train and ultimately classify the customers into a binary True or False
 
 ## Introduction
 Customer retention is one of the primary KPI for financial industries with a subscription-based business model. Competition is tough particularly in the Retail Financial Market where customers are free to choose from plenty of providers. One bad experience and customer may just move to the competitor resulting in customer churn.
